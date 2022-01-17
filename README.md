@@ -25,6 +25,10 @@ BMI calculator is an iOS app built with Swift. It takes height and weight as inp
   BMI = Weight / (Height)^2
   ```
 
+https://user-images.githubusercontent.com/44581638/149729522-88cfca20-fcf8-4d8d-9944-1d23d7be2058.mp4
+
+
+
 
 ### Built With
 
